@@ -1,0 +1,15 @@
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.AssemblyInfoInputs.cache
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.AssemblyInfo.cs
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.csproj.CoreCompileInputs.cache
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.sourcelink.json
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\bin\Debug\net9.0\data-structures-algorithms.exe
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\bin\Debug\net9.0\data-structures-algorithms.deps.json
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\bin\Debug\net9.0\data-structures-algorithms.runtimeconfig.json
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\bin\Debug\net9.0\data-structures-algorithms.dll
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\bin\Debug\net9.0\data-structures-algorithms.pdb
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.dll
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\refint\data-structures-algorithms.dll
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.pdb
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\data-structures-algorithms.genruntimeconfig.cache
+C:\Users\hamad\OneDrive\Documentos\GitHub\designgurus-io\data-structures-algorithms\obj\Debug\net9.0\ref\data-structures-algorithms.dll
