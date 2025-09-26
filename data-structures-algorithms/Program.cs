@@ -10,7 +10,10 @@ public class Program
         // int[] result = runningsum.runningSum(input);
         // Console.WriteLine("Running sum result: [{0}]", string.Join(", ", result));
 
-        int[] nums1 = {1, 2, 2, 4, 6};
-        Console.WriteLine(ReturnsTrue.containsDuplicate(nums1));
+        // int[] nums1 = { 1, 2, 2, 4, 6 };
+        // Console.WriteLine(ReturnsTrue.containsDuplicate(nums1));
+
+        // int[] nums1 = { 1, 2, 3, 4, 5 };
+        // Console.WriteLine(LeftRightDifferences.findArrayDifference(nums1));
     }
 }
