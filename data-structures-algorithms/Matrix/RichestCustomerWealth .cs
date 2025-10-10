@@ -10,9 +10,9 @@ namespace data_structures_algorithms.Matrix
     Return the wealth that the richest customer has.
 
     Imagine every customer has multiple bank accounts, with each account holding a certain amount of money. The total wealth of a customer is calculated by summing all the money across all their multiple. */
-    public class RichestCustomerWealth
+    public static class RichestCustomerWealth
     {
-        public int maximumWealth(int[][] accounts)
+        public static int maximumWealth(int[][] accounts)
         {
             //Initialize maxWealth to 0
             int maxWealth = 0;

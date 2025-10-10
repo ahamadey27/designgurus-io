@@ -1,5 +1,6 @@
 ﻿using System;
 using data_structures_algorithms.Arrays;
+using data_structures_algorithms.Matrix;
 
 public class Program
 {
@@ -15,5 +16,9 @@ public class Program
 
         // int[] nums1 = { 1, 2, 3, 4, 5 };
         // Console.WriteLine(LeftRightDifferences.findArrayDifference(nums1));
+
+        System.Console.WriteLine(RichestCustomerWealth.maximumWealth(new int [][]{new int[]{5,2,3}, new int[] {0, 6, 7} }));
+
+
     }
 }
